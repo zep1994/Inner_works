@@ -1,0 +1,16 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+  position: relative;  
+}
+
+/* 
+A great way for 3 boxes
+position: -webkit-sticky;
+position: sticky;
+top: 20px;
+*/
